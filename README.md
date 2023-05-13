@@ -43,7 +43,7 @@ npm run dev -- --open
 The PaLM API is a powerful tool, but it has some limitations. In particular, it may not work well with very short or very long texts, and it may not always produce accurate or useful summaries. Additionally, the API has limits on how many requests can be made per month, so this application may not work if those limits are exceeded.
 
 ## License
-This application is provided under the MIT license. See the `LICENSE` file for more information.
+This application is provided under the MIT license. See the [`LICENSE`]{https://github.com/4N1Z/textSummarizer/blob/master/LICENSE} file for more information.
 
 ## Acknowledgements
 This application was made possible by the PaLM API developed by Google
