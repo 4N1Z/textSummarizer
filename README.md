@@ -2,13 +2,11 @@
 
 This is a web application that uses the PaLM API to summarize text input by the user. The PaLM API is a language model developed by Google that is capable of generating high-quality summaries of text.
 
-The front end is made with Svelte.
-#### Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).  
+### The front end is made with Svelte.
+- Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte). 
+### DEVELOPMENT IN PROGRESS !
 
 
-#### DEVElOPMENT IN PROGRESS !
-
-Requirements
 ## To locally setup the project
 
 If you're seeing this, you've probably already done this step. Congrats!
